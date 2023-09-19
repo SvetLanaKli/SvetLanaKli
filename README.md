@@ -3,9 +3,7 @@ I'm **Svetlana Klimova**
 
 * 💼 I’m currently not working and open to job offers.
 * 🌱 I’m currently learning DS, DL
-* 📫 You can reach me
-  * [![Telegram Badge](https://img.shields.io/badge/-KlimovaS-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KlimovaS)
-  * [![Yandex Badge](https://img.shields.io/badge/-YandexMail-orange?style=flat&logo=Email&logoColor=white)](mailto:s.klimova.ya@yandex.ru)
+* 📫 You can reach me [![Telegram Badge](https://img.shields.io/badge/-KlimovaS-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KlimovaS) [![Yandex Badge](https://img.shields.io/badge/-YandexMail-orange?style=flat&logo=Email&logoColor=white)](mailto:s.klimova.ya@yandex.ru)
 * ⚡ Fun fact: A long-long time ago, I studied programming for 5 years, then worked as an analyst in a bank. Now I'm starting my way in data science....
 
 ### Skills
