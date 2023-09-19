@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm **Svetlana Klimova**
+### Hi there 👋 I'm Svetlana Klimova
 
 * 💼 I’m currently not working and open to job offers.
 * 🌱 I’m currently learning DS, DL
